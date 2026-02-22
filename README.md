@@ -20,6 +20,10 @@ content distribution, genres, and ratings.
 - Country-wise content
 - Ratings analysis
 
+  # Netflix Tableau Dashboard
+
+![Dashboard](Netflix_dashboard.png)
+
 ## Author
 Mrunmayee Dash
 Data Analyst
